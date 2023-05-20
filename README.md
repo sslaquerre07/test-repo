@@ -9,12 +9,14 @@ joystick while avoiding all the outer edges of the maze. After completing five l
 was congratulated by a success screen!
 
 This projects consisted of multiple components such as:
-    Creating Random Maze Generator
-    Building the User Interface
-    Coding the Sprite for the Player
-    Collision Detection
-    Level Screens and Menu Screen
-    Programming Pins from the Arduino into the game
+```
+1. Creating Random Maze Generator
+2. Building the User Interface
+3. Coding the Sprite for the Player
+4. Collision Detection
+5. Level Screens and Menu Screen
+6. Programming Pins from the Arduino into the game
+```
 
 All of these aspects combined to make a functional final product, that was then presented in our class to a panel of judges, 
 who gave us an A+ for our work.
