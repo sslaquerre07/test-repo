@@ -1,2 +1,2 @@
-test_variable = 7
+test_variable = 8
 print(f'The variable for this test is {test_variable}')
