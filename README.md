@@ -20,3 +20,5 @@ This projects consisted of multiple components such as:
 
 All of these aspects combined to make a functional final product, that was then presented in our class to a panel of judges, 
 who gave us an A+ for our work.
+
+Sam Laquerre
